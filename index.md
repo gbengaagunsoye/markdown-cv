@@ -50,11 +50,10 @@ REST API Testing (Udemy)
 
 ## Professional Experience
 __Prairie View A&M University, Prairie View, TX__
-<br> Graduate Teaching Assistant September 2020 – Present
+<br> # Graduate Teaching Assistant September 2020 – Present
 <br> Supported faculties with programming labs by using soft skills to enhance learning through continuous engagement in
 interactive breakout sessions with CS students and also participating in OSS and Open Stack projects.
-
-<br> Cybersecurity Research Assistant Feb 2019 – August 2020
+<br> # Cybersecurity Research Assistant Feb 2019 – August 2020
 <br> Deployed OpenDayLight controllers to programmatically control forwarding plane of OVN Switches using OpenFlow
 <br> Developed applications to automate redundant tasks within Linux environment and singlehandedly built a working
 <br> Machine Learning model with prediction accuracy of 99% on test data, which helped to classify network attacks.
@@ -62,12 +61,12 @@ interactive breakout sessions with CS students and also participating in OSS and
 <br> Supported Data Center infrastructure worth $2.5 million across PVAMU by managing Cisco Services and reducing tickets by 90%.
 
 __ZTE__
-<br> RF Optimization Engineer Jan 2018 – Dec 2018
+<br> # RF Optimization Engineer Jan 2018 – Dec 2018
 <br> Doubled efficiency by cutting down labor by half in the deployment of high speed 4G/LTE network sites, verifying over 500 Base Transceiver Stations and optimizing them.
 <br> Resolved customer complaints by optimizing sites and ensured minimum thresholds for actual DL and UL (Downlink and Uplink) throughput meets customer requirement.
 
 __God’s Love Tabernacle Church__
-<br> Database Administrator Nov 2013 - Nov 2016
+<br> # Database Administrator Nov 2013 - Nov 2016
 <br> Developed a system to measure attendant quality in the church by creating a database to monitor members/stewards’ personal information as well as progresses through activity log.
 <br> Saved $1000 that would otherwise be lost to manual data management by launching the database and verified that it met client requirement. This allowed seamless data  retrieval from different tables as requested by client.
 
